@@ -1,0 +1,111 @@
+2020-05-09 03:00:10.426  [http-nio-8083-exec-1] DEBUG [com.ljq.house.biz.mapper.AdminMapper.selectAdminsByQuery:] http-nio-8083-exec-1cid - ==>  Preparing: select * from admin WHERE name = ? and pwd = ? 
+2020-05-09 03:00:10.426  [http-nio-8083-exec-1] DEBUG [com.ljq.house.biz.mapper.AdminMapper.selectAdminsByQuery:] http-nio-8083-exec-1cid - ==> Parameters: admin2(String), 499a19fa2d53a410845181b446da8ab3(String)
+2020-05-09 03:00:10.431  [http-nio-8083-exec-1] DEBUG [com.ljq.house.biz.mapper.AdminMapper.selectAdminsByQuery:] http-nio-8083-exec-1cid - <==      Total: 1
+2020-05-09 03:00:21.973  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.CommentMapper.selectAllComments:] http-nio-8083-exec-5cid - ==>  Preparing: SELECT * FROM comment 
+2020-05-09 03:00:21.974  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.CommentMapper.selectAllComments:] http-nio-8083-exec-5cid - ==> Parameters: 
+2020-05-09 03:00:21.981  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.CommentMapper.selectAllComments:] http-nio-8083-exec-5cid - <==      Total: 24
+2020-05-09 03:00:21.982  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:21.982  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:21.987  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:21.988  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:21.988  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:21.993  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:21.993  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:21.994  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:21.998  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:21.998  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:21.998  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.003  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.003  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.003  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.007  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.007  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.007  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.011  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.011  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.011  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.022  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.023  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.023  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.027  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.027  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.027  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.032  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.032  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.032  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.036  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.036  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.036  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.041  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.041  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.041  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.045  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.046  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.046  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.050  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.050  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.050  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.054  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.054  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.054  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.057  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.058  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.058  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.062  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.063  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.063  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.066  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.067  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.067  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.070  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.071  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.071  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.075  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.075  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.076  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.079  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.080  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.080  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.083  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.084  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.084  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.087  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.088  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.088  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 1(Long)
+2020-05-09 03:00:22.091  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.092  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==>  Preparing: select * from user WHERE id = ? 
+2020-05-09 03:00:22.092  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - ==> Parameters: 4(Long)
+2020-05-09 03:00:22.095  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.UserMapper.selectUsersByQuery:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:22.096  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.CommentMapper.selectCount:] http-nio-8083-exec-5cid - ==>  Preparing: SELECT COUNT(*) FROM comment 
+2020-05-09 03:00:22.096  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.CommentMapper.selectCount:] http-nio-8083-exec-5cid - ==> Parameters: 
+2020-05-09 03:00:22.099  [http-nio-8083-exec-5] DEBUG [com.ljq.house.biz.mapper.CommentMapper.selectCount:] http-nio-8083-exec-5cid - <==      Total: 1
+2020-05-09 03:00:29.724  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.BlogMapper.selectAllBlog:] http-nio-8083-exec-4cid - ==>  Preparing: SELECT * FROM blog 
+2020-05-09 03:00:29.724  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.BlogMapper.selectAllBlog:] http-nio-8083-exec-4cid - ==> Parameters: 
+2020-05-09 03:00:29.738  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.BlogMapper.selectAllBlog:] http-nio-8083-exec-4cid - <==      Total: 8
+2020-05-09 03:00:29.738  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.BlogMapper.selectCount:] http-nio-8083-exec-4cid - ==>  Preparing: SELECT COUNT(*) FROM blog 
+2020-05-09 03:00:29.739  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.BlogMapper.selectCount:] http-nio-8083-exec-4cid - ==> Parameters: 
+2020-05-09 03:00:29.742  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.BlogMapper.selectCount:] http-nio-8083-exec-4cid - <==      Total: 1
+2020-05-09 03:06:28.191  [http-nio-8083-exec-3] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-3cid - ==>  Preparing: select a.id, a.type, a.name, a.price, a.images, a.area, a.beds, a.baths, a.rating, a.remarks, a.properties, a.floor_plan, a.tags, a.create_time, a.city_id, a.community_id, a.address, a.state from house a WHERE state = 1 order by a.create_time desc limit ?,? 
+2020-05-09 03:06:28.207  [http-nio-8083-exec-3] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-3cid - ==> Parameters: 0(Integer), 8(Integer)
+2020-05-09 03:06:28.231  [http-nio-8083-exec-3] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-3cid - <==      Total: 8
+2020-05-09 03:06:38.234  [http-nio-8083-exec-7] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-7cid - ==>  Preparing: select a.id, a.type, a.name, a.price, a.images, a.area, a.beds, a.baths, a.rating, a.remarks, a.properties, a.floor_plan, a.tags, a.create_time, a.city_id, a.community_id, a.address, a.state from house a WHERE state = 1 order by a.create_time desc limit ?,? 
+2020-05-09 03:06:38.234  [http-nio-8083-exec-7] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-7cid - ==> Parameters: 0(Integer), 5(Integer)
+2020-05-09 03:06:38.241  [http-nio-8083-exec-7] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-7cid - <==      Total: 5
+2020-05-09 03:06:38.242  [http-nio-8083-exec-7] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageCount:] http-nio-8083-exec-7cid - ==>  Preparing: select count(id) from house a WHERE state = 1 
+2020-05-09 03:06:38.242  [http-nio-8083-exec-7] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageCount:] http-nio-8083-exec-7cid - ==> Parameters: 
+2020-05-09 03:06:38.247  [http-nio-8083-exec-7] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageCount:] http-nio-8083-exec-7cid - <==      Total: 1
+2020-05-09 03:06:42.205  [http-nio-8083-exec-2] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-2cid - ==>  Preparing: select a.id, a.type, a.name, a.price, a.images, a.area, a.beds, a.baths, a.rating, a.remarks, a.properties, a.floor_plan, a.tags, a.create_time, a.city_id, a.community_id, a.address, a.state from house a WHERE state = 1 and a.type = ? order by a.create_time desc limit ?,? 
+2020-05-09 03:06:42.205  [http-nio-8083-exec-2] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-2cid - ==> Parameters: 1(Integer), 5(Integer), 5(Integer)
+2020-05-09 03:06:42.215  [http-nio-8083-exec-2] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-2cid - <==      Total: 5
+2020-05-09 03:06:42.216  [http-nio-8083-exec-2] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageCount:] http-nio-8083-exec-2cid - ==>  Preparing: select count(id) from house a WHERE state = 1 and a.type = ? 
+2020-05-09 03:06:42.216  [http-nio-8083-exec-2] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageCount:] http-nio-8083-exec-2cid - ==> Parameters: 1(Integer)
+2020-05-09 03:06:42.221  [http-nio-8083-exec-2] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageCount:] http-nio-8083-exec-2cid - <==      Total: 1
+2020-05-09 03:06:46.038  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-4cid - ==>  Preparing: select a.id, a.type, a.name, a.price, a.images, a.area, a.beds, a.baths, a.rating, a.remarks, a.properties, a.floor_plan, a.tags, a.create_time, a.city_id, a.community_id, a.address, a.state from house a WHERE state = 1 and a.type = ? order by a.create_time desc limit ?,? 
+2020-05-09 03:06:46.039  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-4cid - ==> Parameters: 1(Integer), 10(Integer), 5(Integer)
+2020-05-09 03:06:46.045  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageHouses:] http-nio-8083-exec-4cid - <==      Total: 2
+2020-05-09 03:06:46.046  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageCount:] http-nio-8083-exec-4cid - ==>  Preparing: select count(id) from house a WHERE state = 1 and a.type = ? 
+2020-05-09 03:06:46.046  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageCount:] http-nio-8083-exec-4cid - ==> Parameters: 1(Integer)
+2020-05-09 03:06:46.051  [http-nio-8083-exec-4] DEBUG [com.ljq.house.biz.mapper.HouseMapper.selectPageCount:] http-nio-8083-exec-4cid - <==      Total: 1
+2020-05-09 03:06:58.094  [http-nio-8083-exec-6] DEBUG [com.ljq.house.biz.mapper.AgencyMapper.select:] http-nio-8083-exec-6cid - ==>  Preparing: select id , name, address, phone, email, about_us, mobile, web_site from agency 
+2020-05-09 03:06:58.094  [http-nio-8083-exec-6] DEBUG [com.ljq.house.biz.mapper.AgencyMapper.select:] http-nio-8083-exec-6cid - ==> Parameters: 
+2020-05-09 03:06:58.100  [http-nio-8083-exec-6] DEBUG [com.ljq.house.biz.mapper.AgencyMapper.select:] http-nio-8083-exec-6cid - <==      Total: 5
